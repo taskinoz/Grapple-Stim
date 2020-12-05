@@ -1,0 +1,20 @@
+{
+	"ApiId" : "piCdw8m2ZBKv9TDrq",
+	"Name" : "Graple and Stim",
+	"Description" : "Switch between the cloak, grapple and stim abilities",
+	"Authors" : [
+		"Tristan Kennedy"
+	],
+	"Contacts" : [
+		"tristan@taskinoz.com"
+	],
+	"Version" : "1.0",
+	"CustomScripts":[
+		{
+			"Path": "sp_custom_abilities.nut",
+			"RunOn": "SERVER || CLIENT",
+			"ClientCallback": "precacheCustomAbilities",
+			"ServerCallback": "precacheCustomAbilities"
+		}
+	]
+}
