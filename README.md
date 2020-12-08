@@ -21,4 +21,4 @@ To install this you will need Icepick, which you can get [HERE](https://titanfal
 
 Support me on [Patreon](https://patreon.com/taskinoz)
 
-![Patreon Logo](src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg")
+![Patreon Logo](https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg)
