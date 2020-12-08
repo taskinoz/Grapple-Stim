@@ -9,6 +9,14 @@ Get the Mod here:
 
 [Releases](https://github.com/taskinoz/Grapple-Stim/releases)
 
+## Screenshots
+
+![Custom Abilities Settings Menu](https://raw.githubusercontent.com/taskinoz/Grapple-Stim/main/assets/titanfall-custom-abilities-settings.jpg)
+
+![Grapple ability in Into the Abyss Chapter 1](https://raw.githubusercontent.com/taskinoz/Grapple-Stim/main/assets/titanfall-into-the-abyss-grapple.jpg)
+
+![Stim ability in Blood and Rust](https://raw.githubusercontent.com/taskinoz/Grapple-Stim/main/assets/titanfall-blood-and-rust-stim.jpg)
+
 ## Installation
 
 To install this you will need Icepick, which you can get [HERE](https://titanfallmods.com/)
